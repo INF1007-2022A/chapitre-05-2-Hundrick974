@@ -7,7 +7,14 @@ def get_bill(name, data):
 	INDEX_NAME = 0
 	INDEX_QUANTITY = 1
 	INDEX_PRICE = 2
+	taux_taxe = 0.15
 
+	# Calculer le sous-total (somme des items)
+	somme = 0
+	sous_total = 
+
+	# Calculer les taxes et total
+	# Retourner la facture formatée (sous-total, taxes, total)
 	return ""
 
 
